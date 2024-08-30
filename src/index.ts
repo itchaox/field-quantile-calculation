@@ -1,4 +1,4 @@
-// FIXME 简体繁体互转
+// FIXME 手机号码获取所属地
 
 import { basekit, FieldType, field, FieldComponent, FieldCode } from '@lark-opdev/block-basekit-server-api';
 
